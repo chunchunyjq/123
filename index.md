@@ -1,6 +1,6 @@
 ## 欢迎来到纯纯要崛起的私密小屋
 
-You can use the [editor on GitHub](https://github.com/chunchunyjq/123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以关注我的微信公众号——纯纯要崛起，获取更多方便学习和生活的软件和资料。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
